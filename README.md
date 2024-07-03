@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que concluí recente
 
 - **[Alura Plus](https://github.com/HectorCardoso93/alura-plus):** HTML, CSS e Javascript.
 - **[Git e Github](https://github.com/HectorCardoso93/git-github-teste):** GIT  e GITHUB.
-- **[Desafio Projedata](https://github.com/HectorCardoso93/projeto-mao-na-massa-Projedata.git):** HTML, CSS e Javascript.
+- **[Desafio Projedata](https://github.com/HectorCardoso93/projeto-mao-na-massa-Projedata.git):** C#.
 
 ### Contato
 
