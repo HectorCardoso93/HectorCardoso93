@@ -13,7 +13,7 @@
 Aqui estão alguns dos projetos em que estou trabalhando ou que concluí recentemente:
 
 - **[Alura Plus](https://github.com/HectorCardoso93/alura-plus):** HTML, CSS e Javascript.
-- **[Git e Github](https://github.com/HectorCardoso93/git-github-teste):** GIT  e GITHUB.
+- **[Desafio Banking](https://github.com/HectorCardoso93/Desafio-Banking-EFCore):** C#, EF Core, SQL Server.
 - **[Desafio Projedata](https://github.com/HectorCardoso93/projeto-mao-na-massa-Projedata.git):** C#.
 
 ### Contato
